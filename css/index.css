@@ -23,6 +23,15 @@
     border-radius: 4px;
     padding-left: 10px;
 }
+.inputsearch2{
+    width: 80%;
+    height: 34px;
+    background-color: rgba(0, 0, 0, 0.822);
+    color: white;
+    border:  1px solid white;
+    border-radius: 4px;
+    padding-left: 10px;
+}
 :focus-visible {
     outline: 1px solid #333;
 }
